@@ -1,3 +1,0 @@
-class Quiz
-
-end
