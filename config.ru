@@ -1,3 +1,4 @@
+require 'sinatra'
 require './config/environment'
-
-run Applications
+require './app/controllers/application_controller.rb'
+run ApplicationController
