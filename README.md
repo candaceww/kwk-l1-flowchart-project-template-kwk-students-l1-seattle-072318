@@ -4,7 +4,7 @@
 
 ## Overview
 
-One of your final projects can be a "Flowchart" style application that can lead a person down a [decision tree](https://www.pinterest.com/pin/125819383316124395/).
+One of your final projects can be a "Flowchart" style application that can lead a person down a [decision tree](ps://www.pinterest.com/pin/125819383316124395/htt).
 
 You can build all sorts of useful applications with this model, from helping someone pick a major in college, to deciding whether you should have another cookie (yes. always.), to knowing whether your friend might need help, to all sorts of use-cases. That's what makes this type of project fun, once you get the framework of the code working, you can add your own content and help people make better decisions.
 
